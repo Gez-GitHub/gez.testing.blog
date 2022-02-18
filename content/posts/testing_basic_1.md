@@ -1,7 +1,23 @@
 ---
 title: "软件测试基础理论"
 date: 2022-02-04T13:22:17+08:00
+lastmod: 2022-02-18T14:44:26+08:00
 draft: false
+author: ""
+description: "计算机软件测试基础理论"
+images: []
+
+tags: ["测试理论"]
+categories: ["软件测试理论"]
+
+hiddenFromHomePage: false
+hiddenFromSearch: false
+ruby: true
+fraction: true
+fontawesome: true
+linkToMarkdown: true
+rssFullText: false
+
 ---
 ## 1 软件测试的概念
 

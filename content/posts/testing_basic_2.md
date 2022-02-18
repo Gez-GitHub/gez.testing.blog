@@ -2,6 +2,21 @@
 title: "Web前段基础知识"
 date: 2022-02-04T14:50:58+08:00
 draft: false
+author: ""
+description: "HTML基础知识"
+images: []
+
+tags: ["HTML","Web"]
+categories: ["编程语言"]
+
+hiddenFromHomePage: false
+hiddenFromSearch: false
+ruby: true
+fraction: true
+fontawesome: true
+linkToMarkdown: true
+rssFullText: false
+
 ---
 ## 1 Web前端标准
 
