@@ -1,13 +1,14 @@
 ---
-title: "Web前段基础知识"
+title: "Web前端基础知识"
 date: 2022-02-04T14:50:58+08:00
+lastmod: 2022-02-04T14:50:58+08:00
 draft: false
 author: ""
 description: "HTML基础知识"
 images: []
 
-tags: ["HTML","Web"]
-categories: ["编程语言"]
+tags: ["TP393.0 一般性问题","Web"]
+categories: ["TP393 计算机网络"]
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -18,6 +19,8 @@ linkToMarkdown: true
 rssFullText: false
 
 ---
+Web前端基础知识，html基础语法规则、css基础语法规则等。
+<!--more-->
 ## 1 Web前端标准
 
 html：结构标准，负责网页结构的搭建。
