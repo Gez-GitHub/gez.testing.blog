@@ -187,9 +187,9 @@ theme = "LoveIt"
       # Valine 评论系统设置 (https://github.com/xCss/Valine)
       [params.page.comment.valine]
         enable = true
-        appId = "QGzwQXOqs5JOhN4RGPOkR2mR-MdYXbMMI"
-        appKey = "WBmoGyJtbqUswvfLh6L8iEBr"
-        placeholder = ""
+        appId = "F8h9Des39VLBL186i1SAfIgX-gzGzoHsz"
+        appKey = "bwwKPK75eHeeb8VgMOTktuJT"
+        placeholder = "要说点什么吗？"
         avatar = "mp"
         meta= ""
         pageSize = 10
@@ -198,7 +198,7 @@ theme = "LoveIt"
         recordIP = true
         highlight = true
         enableQQ = false
-        serverURLs = "https://leancloud.hugoloveit.com"
+        serverURLs = "https://f8h9des3.lc-cn-n1-shared.com"
         # emoji data file name, default is "google.yml"
         # ("apple.yml", "google.yml", "facebook.yml", "twitter.yml")
         # located in "themes/LoveIt/assets/data/emoji/" directory
@@ -243,7 +243,7 @@ theme = "LoveIt"
       # 主页显示的网站标题 (支持 HTML 格式)
       #title = ""
       # 主页显示的网站副标题
-      subtitle = "这是小郑的测试学习博客"
+      subtitle = "小郑的测试学习博客"
       # 是否为副标题显示打字机动画
       typeit = true
       # 是否显示社交账号
